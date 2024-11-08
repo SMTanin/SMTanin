@@ -28,8 +28,9 @@ Leadership: Team Management, Code Reviews, Project Planning
 💬 Let’s Connect:
 I’m always open to new ideas, collaborations, or discussions about backend development and Go. If you have questions, project ideas, or just want to connect, feel free to reach out!
 
-📫 How to Reach Me:
-LinkedIn: Shoheb Mohammad Tanin
-Email: tanincse14@gmail.com
+📫 **How to Reach Me:**
+- LinkedIn: [Shoheb Mohammad Tanin](https://www.linkedin.com/in/shohebmohammadtanin)
+- Email: tanincse14@gmail.com
 
 Let’s build impactful backend systems and lead innovative teams together!
+
